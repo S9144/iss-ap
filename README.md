@@ -1,4 +1,3 @@
-
 <html lang="ja">
 <title>人工衛星シミュレーション</title>
 
@@ -540,10 +539,3 @@ function animate(){
 </script>
 </body>
 </html>
-
-
-
-
-
-
-
