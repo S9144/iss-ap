@@ -1,5 +1,5 @@
-<html lang="ja">
-<title>人工衛星シミュレーション</title>
+
+<title>人工衛星シミュレーション
 
 <style>
 
