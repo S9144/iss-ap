@@ -1,9 +1,5 @@
-# iss-ap[人工衛星　1020.html](https://github.com/user-attachments/files/34131766/1020.html)
-<!DOCTYPE html>
-<html lang="ja">
 
-<head>
-<meta charset="UTF-8">
+<html lang="ja">
 <title>人工衛星シミュレーション</title>
 
 <style>
